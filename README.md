@@ -1,7 +1,6 @@
 # MESS-Modified-chESS
 
-I am just creating a toy chess program that lets me set up pieces on a chessboard, move them, and find possible moves for a given piece in a certain position. This is my 1st assignment for my Software Product and Process Evaluation (CS514) class at CSU.
-
+I am just creating a toy chess program that lets me set up pieces on a chessboard, move them, and find possible moves for a given piece in a certain position. 
 
 The rules are simplified as follows:
 
